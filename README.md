@@ -33,7 +33,7 @@ Test: 28,000 unlabeled samples.
 
 ## 3. Models
 
-I experimented with five different approaches:
+I experimented with five different approaches and ran them using GPU T4 x2:
 
 ### M1: Simple MLP (25-15-10)
 
